@@ -13,3 +13,7 @@ console.log(escola.replace(3, 'e'));
 console.log('Daniel,Davi,Leonardo'.split(','));
 //.includes motra se o elemento existe na string(true, false)
 console.log(escola.includes('r'));
+
+
+let nome = "Daniel"
+console.log(nome.substring(1))
